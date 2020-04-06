@@ -24,6 +24,6 @@ This is the demo of my scripts for the StealthGame Demo project. I participated 
 To be announced
 
 ## Project Information
-Source: not released
-Online access: not released
-Demo scripts: https://github.com/tieuchanlong/StealthGame-Demo
+* Source: not released
+* Online access: not released
+* Demo scripts: https://github.com/tieuchanlong/StealthGame-Demo
