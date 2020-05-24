@@ -3,6 +3,8 @@
 ## Description
 This is the demo of my scripts for the StealthGame Demo project. I participated this team during February 2020 and I felt lucky to be a part of a professional team, developing a Metal Gear Solid Vibe Game. 
 
+![](Capture.PNG)
+
 ## Features
 * Guards search for puddle sound made by player
 * Guards search for lockers to find players
