@@ -17,6 +17,9 @@ This is the demo of my scripts for the StealthGame Demo project. I participated 
 * Secondly, I first learned about Zenject Dependencies Injection since this project. It was a hard concept at first because of my habbit of using SerializeField unecessary multiple times on different objects or Singleton. The concept is super great and I had a fun time learning through Youtube video and tested through the project itself.
 * Thirdly, I learned about Panda Behaviour Tree through this project and the Software Team Lead has taught me how to use it properly. Luckily, it's coding style is similar to Python and the minal codings make it convenient to use as a part of the State Machines for Guards AI.
 
+## Programming Language
+C#
+
 ## Major Components
 * Unity
 * Zenject
